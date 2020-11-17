@@ -1,4 +1,4 @@
 # BoF_vulnserver_KSTET
-BoF vulnserver KSTET
+BufferOverflow Vulnserver KSTET
 
 exploit skeleton with test IP
